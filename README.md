@@ -15,7 +15,7 @@ Aplicativo simples de controle de gastos pessoais feito com React Native + Expo.
 ## Como executar
 
 ```bash
-npm install
+npm install ou npm install --legacy-peer-deps (se houver problemas de dependências)
 npx expo start
 ```
 
